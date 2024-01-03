@@ -6,7 +6,9 @@ Welcome to the Interactive Medical Education LLM (Lifelong Learning Model) Chatb
 
 
 
-https://github.com/Exorust/Interactive-Medical-Education-LLM-Chatbot/assets/20578676/300d8fe5-e81c-4d04-a878-f8df28f8d7e1
+https://github.com/Exorust/Interactive-Medical-Education-LLM-Chatbot/assets/20578676/2259fe69-b6e6-4bb1-ba3e-6bac2e87d127
+
+
 
 
 ## Core Components
