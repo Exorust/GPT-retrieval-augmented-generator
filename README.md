@@ -1,6 +1,6 @@
 # Interactive Medical Education LLM Chatbot - Boston University
 
-Welcome to the Interactive Medical Education LLM (Lifelong Learning Model) Chatbot project developed at Boston University. This project aims to enhance medical education by providing an interactive learning experience through a novel approach called Retrieval Augmented Generation (RAG). The chatbot allows medical students to quiz themselves using textbooks and seamlessly links textbook information to the Llama 2 model, providing a unique and effective learning experience.
+Welcome to the Interactive Medical Education LLM (Lifelong Learning Model) Chatbot project. This project aims to enhance medical education by providing an interactive learning experience through a novel approach called Retrieval Augmented Generation (RAG). The chatbot allows medical students to quiz themselves using textbooks and seamlessly links textbook information to the Llama 2 model, providing a unique and effective learning experience.
 
 ## Features
 
