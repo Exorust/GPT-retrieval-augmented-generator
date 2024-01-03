@@ -4,8 +4,9 @@ Welcome to the Interactive Medical Education LLM (Lifelong Learning Model) Chatb
 
 ## Demo
 
-https://github.com/Exorust/Interactive-Medical-Education-LLM-Chatbot/assets/20578676/4ab2ab5f-9cff-4efd-a89d-430514bd41a2
 
+
+https://github.com/Exorust/Interactive-Medical-Education-LLM-Chatbot/assets/20578676/300d8fe5-e81c-4d04-a878-f8df28f8d7e1
 
 
 ## Core Components
@@ -16,7 +17,7 @@ The core feature of this project is the implementation of a Retrieval Augmented 
 ### 2. Vector Database
 To facilitate efficient retrieval and linking of textbook information to the Llama 2 model, a vector database has been implemented. The vector database plays a crucial role in storing and retrieving information, ensuring a smooth and seamless learning experience for the users.
 
-### 3. Llama 2 Integration
+### 3. Llama 2
 The project integrates with Llama 2, a specialized model designed for lifelong learning. This integration enhances the chatbot's capability to provide a unique learning experience by combining the power of retrieval-based learning, generative models, and lifelong learning methodologies.
 
 ### 4. Chroma DB Integration
